@@ -31,7 +31,6 @@
 **Link(s) to work:**
 
 1. [Continued work on linsys](https://github.com/lgalke/linsys)
-2. [Started with the vision](https://github.com/lgalke/linsys/commit/30585befbc9b3a682f7acc93e445787119281842)
 
 
 ### Day 4: 2017-11-02
@@ -43,6 +42,31 @@
 **Link(s) to work:**
 
 1. [Continued work on linsys](https://github.com/lgalke/linsys)
-2. [Started with the vision](https://github.com/lgalke/linsys/commit/44ccf75)
+
+
+### Day 5: 2017-11-03
+
+**Today's Progress**: Refreshing my C by manually coding a hash table.
+
+**Thoughts:** Hash tables are great.
+
+**Link(s) to work:**
+
+
+### Day 6: 2017-11-06
+
+**Today's Progress**: Learning to make use of `ut_hash` a C library for hash tables implemented via macros.
+
+**Thoughts:** Hash table libraries are cool.
+
+**Link(s) to work:**
+
+### Day 7: 2017-11-20
+
+**Today's Progress**: Simultaneously exploring codepen and deeplearn.js
+
+**Thoughts:** Difficult to find a human interface for training data ingestion.
+
+**Link(s) to work:**
 
 
