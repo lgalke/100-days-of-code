@@ -67,6 +67,14 @@
 
 **Thoughts:** Difficult to find a human interface for training data ingestion.
 
-**Link(s) to work:**
+**Link(s) to work:** [Pen](https://codepen.io/lgalke/pen/qVpbMN)
 
+
+### Day 8: 2017-11-30 
+
+**Today's Progress**: Succesfully issed a pull request on w0rp/ale.
+
+**Thoughts:** One hour of careful debugging for one line of code.
+
+**Link(s) to work:** [PR on w0rp/ale](https://github.com/w0rp/ale/pull/1181)
 
